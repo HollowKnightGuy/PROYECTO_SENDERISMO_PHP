@@ -1,1 +1,1 @@
-Para que el proyecto funcione se debe cambiar el archivo config, pues este proyecto esta realizado en local
+Para que el proyecto funcione se debe cambiar el archivo config al igual que hay que modificar el htaccess, pues este proyecto esta realizado en local 
