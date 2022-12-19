@@ -1,0 +1,1 @@
+Para que el proyecto funcione se debe cambiar el archivo config, pues este proyecto esta realizado en local
